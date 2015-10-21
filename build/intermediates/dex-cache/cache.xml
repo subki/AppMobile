@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d3aba1c188fea5ee83ebbcb458be29d1cc0ef483">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\classes-913677c0f78d8f3cd9c947b52fed147fc747153a.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\libs\commons-logging-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\commons-logging-1.2-57e7cca642ca3ba7f6ab2d6a00ae5b3bc49d6f18.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\classes-da32ecc1a00c69b6bd0df088d43f92fb3774aa90.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\libs\fluent-hc-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a4bafd995d1403c26d874bf52f76e7f74af8b9a">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\fluent-hc-4.5.1-525afb50e7a5e760ad9c8aa5066937d2bd62c4d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\libs\httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\httpcore-4.4.3-ebbb890e8e7739aecf060599c1cabca61ede6675.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\libs\httpclient-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\httpclient-4.5.1-d9b419f9330ecb0beac9880c80c83b3942cba71e.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\libs\httpclient-win-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1829f9483cded887b5e7eb354d9a86e81d377962">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\httpclient-win-4.5.1-e38597fab4a393f659767eb7c836ca06211dcc47.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-2a5f52af0de1d84322184799548b39df5aa97be4.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\classes-81bf2f03b3c034df9abed52e05a278a236d2baf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\libs\jna-platform-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\jna-platform-4.1.0-fe2d8e7e8001f0294209f8f5f9f698674215daf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\libs\gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\gson-2.4-7826ac24f18c0d587f5508c8945b26e4d44fa88d.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\classes-8125643c25bc8bab08139d7f33481df753198687.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-ade06c7d6b894d5782bbe280dc1d14a990ae7853.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\libs\jna-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\jna-4.1.0-414a515b125dbd0f328877ddaba88e7af291288c.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\classes-3c6582e21ef386b1b45c967083db7d84d8671985.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\libs\httpclient-cache-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6247317086cb12d2a5fe3296afeccb1d3e00525c">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\httpclient-cache-4.5.1-1353e5741133e0a95689bd406d10792786e52e85.jar" />
+    </item>
+    <item
+        jar="C:\Users\subki\Documents\Android\Dkucrut\app\libs\commons-codec-1.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="C:\Users\subki\Documents\Android\Dkucrut\app\build\intermediates\pre-dexed\debug\commons-codec-1.9-19b9682dc971aef368a32dc0363f592cf233af26.jar" />
+    </item>
+
+</items>
